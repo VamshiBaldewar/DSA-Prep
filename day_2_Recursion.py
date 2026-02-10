@@ -26,6 +26,18 @@
 #     return remove_duplicates(s, index + 1, seen, result)
 
 # print(remove_duplicates("recursion")) 
+# Friend of n pairs or single find ways they can be in party
+# def friend(n):
+#     if n == 1 or n == 2:
+#         return n 
+#     single = friend(n-1)
+#     pair = friend(n-2)
+#     pairs = (n-1)*pair
+#     total = single+pairs
+#     return total 
+    
+# print(friend(3))
+
 
 
 
