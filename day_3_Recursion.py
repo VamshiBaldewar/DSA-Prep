@@ -38,3 +38,10 @@ print(convert(2019))
   
 
 
+# Write a program to findLength of aStringusing Recursion
+
+def length(s="",c=0):
+  if s == "":
+    return c
+  return length(s[1:], c + 1)
+print(length("abcd",0))
