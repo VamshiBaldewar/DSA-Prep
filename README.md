@@ -26,4 +26,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
