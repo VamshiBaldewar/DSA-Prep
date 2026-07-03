@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -27,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
 ## Tree
 |  |
 | ------- |
@@ -53,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0572-subtree-of-another-tree) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
