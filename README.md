@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0100-same-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0572-subtree-of-another-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String Matching
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
