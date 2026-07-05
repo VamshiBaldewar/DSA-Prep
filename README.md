@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0198-house-robber) |
+| [1301-number-of-paths-with-max-score](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/0198-house-robber) |
+| [1301-number-of-paths-with-max-score](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/VamshiBaldewar/DSA-Prep/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
